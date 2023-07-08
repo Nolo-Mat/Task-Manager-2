@@ -6,7 +6,7 @@ This is a simple task manager application built using Django.
 
 Clone the repository to your local machine:
     
-    git clone https://github.com/your-username/task-manager.git
+    git clone https://github.com/Nolo-Mat/Task-Manager-2.git
 
 Install the required dependencies:
 
